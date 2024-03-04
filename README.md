@@ -13,7 +13,7 @@ Deployment: Providing a user-friendly interface or API for users to input match 
 Requirements:
 
 Python 3.x
-Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Flask (for deployment), etc.
+Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn etc.
 IPL match data: Historical match data including team performance, player statistics, pitch conditions, etc.
 Installation:
 
